@@ -1,1 +1,1 @@
-Hello mimicry world!
+# Welcome to the repository of structural relationships between viruses and hosts
