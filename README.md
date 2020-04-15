@@ -2,8 +2,8 @@
 
 ## Table of contents
 * [Overview](#overview)
-* [Viral_dataset](#viral_dataset)]
-* [Structural relationships](#structural relationships)
+* [Viral_dataset](#viral_dataset)
+* [Structural_relationships](#structural_relationships)
 
 ## Overview
 Description
@@ -15,7 +15,7 @@ Tab delimited text file describing the viral dataset, including the virus and co
 
 Columns:
 
-Column 0   Gene/Protein description: Name for the corresponding viral gene and/or protein
+** Column 0   Gene/Protein description: Name for the corresponding viral gene and/or protein
 
 Column 1   NCBI Identifier: Genomic and/or protein NCBI identifier
 
@@ -45,6 +45,7 @@ Column 13  Host name: Names for virus hosts
 
 ## Structural relationships
 * str_pairs/*.txt files
+
 Tab delimited text file describing the inferred structural relationships inferred through an intermediate structural template.
 
 
