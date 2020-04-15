@@ -41,7 +41,7 @@ Tab delimited text file describing the viral dataset, including the virus and co
 
      Column 13  Host name: Names for virus hosts
 
-## Structural relationships
+## Structural_relationships
 * str_pairs/*.txt files
 
 Tab delimited text files describing structural relationships between viral proteins and proteins in non-viral organisms. Each file within the directory corresponds to a set of viruses grouped together according to the taxonomic division of their host.
