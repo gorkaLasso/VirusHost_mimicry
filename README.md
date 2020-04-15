@@ -15,7 +15,7 @@ Tab delimited text file describing the viral dataset, including the virus and co
 
 Columns:
 
-** Column 0   Gene/Protein description: Name for the corresponding viral gene and/or protein
+     * Column 0   Gene/Protein description: Name for the corresponding viral gene and/or protein
 
 Column 1   NCBI Identifier: Genomic and/or protein NCBI identifier
 
