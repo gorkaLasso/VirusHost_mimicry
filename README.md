@@ -2,13 +2,13 @@
 
 ## Table of contents
 * [Overview](#overview)
-* [Viral dataset](#viral dataset)]
+* [Viral_dataset](#viral_dataset)]
 * [Structural relationships](#structural relationships)
 
 ## Overview
 Description
 
-## Viral dataset
+## Viral_dataset
 * virus_viralProt_mapping.txt
 
 Tab delimited text file describing the viral dataset, including the virus and corresponding viral proteins and hosts. This dataset was originaly obtained from the virushostDB (https://www.genome.jp/virushostdb/). Each line corresponds to a viral protein.
