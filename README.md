@@ -11,9 +11,7 @@ We employ sequence-based methods to identify proteins that have similar structur
 ## Viral_dataset
 * virus_viralProt_mapping.txt
 
-Tab delimited text file describing the viral dataset, including the virus and corresponding viral proteins and hosts. This dataset was originaly obtained from the virushostDB (https://www.genome.jp/virushostdb/). Each line corresponds to a viral protein.
-
-Columns:
+Tab delimited text file describing the viral dataset, including the virus and corresponding viral proteins and hosts. This dataset was originaly obtained from the virushostDB (https://www.genome.jp/virushostdb/). Each line corresponds to a viral protein. 
 
      Column 0   Gene/Protein description: Name for the corresponding viral gene and/or protein
 
@@ -46,7 +44,7 @@ Columns:
 ## Structural relationships
 * str_pairs/*.txt files
 
-Tab delimited text file describing the inferred structural relationships inferred through an intermediate structural template.
+Tab delimited text files describing structural relationships between viral proteins and proteins in non-viral organisms. Each file within the directory corresponds to a set of viruses grouped together according to the taxonomic division of their host.
 
 
      Column 0   Internal_virprotID_A: Unique internal identifier A for viral protein
