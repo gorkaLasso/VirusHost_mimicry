@@ -5,7 +5,7 @@
 ## Table of content
 
 ### virus_viralProt_mapping.txt
-Tab delimited text file describing the viral dataset, including the virus and corresponding viral proteins and hosts. This dataset was originaly obtained from the virushostDB (https://www.genome.jp/virushostdb/). Each line corresponds to a viral protein.
+Tab delimited text file describing the viral dataset, including the virus and corresponding viral proteins and hosts. This dataset was originaly obtained from the virushostDB (https://www.genome.jp/virushostdb/). Each line corresponds to a viral protein.\n
 	Columns:
 	Column 0	Gene/Protein description	Name for the corresponding viral gene and/or protein
 	Column 1	NCBI Identifier	Genomic and/or protein NCBI identifier
