@@ -1,10 +1,9 @@
 # Structural relationships between viruses and hosts
 
 ## Overview
+Repository of structural relationships
 
-## Table of content
-
-### virus_viralProt_mapping.txt
+## virus_viralProt_mapping.txt
 Tab delimited text file describing the viral dataset, including the virus and corresponding viral proteins and hosts. This dataset was originaly obtained from the virushostDB (https://www.genome.jp/virushostdb/). Each line corresponds to a viral protein.
 
 Columns:
@@ -38,3 +37,34 @@ Column 12  Host taxid: Taxonomic identifier for virus hosts
 Column 13  Host name: Names for virus hosts
 
 ### Structural relationships
+Tab delimited text file describing the inferred structural relationships inferred through an intermediate structural template.
+
+Column 0   VirProt_id1:
+
+Column 1   virprotid2:
+
+Column 2   subseq:
+
+Column 3   virHfpd:
+
+Column 4   template:
+
+Column 5   templateSegment:
+
+Column 6   repTemplate:
+
+Column 7   repTemplateSegment:
+
+Column 8   repTemplateHfpd:
+
+Column 9   neigUni:
+
+Column 10  neigGene:
+
+Column 11  neigProt:
+
+Column 12  neigPdb:
+
+Column 13  sas:
+
+Column 14  seqHomolog:
