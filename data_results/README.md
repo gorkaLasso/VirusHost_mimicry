@@ -42,6 +42,8 @@ Tab delimited text file describing the viral dataset, including the virus and co
 ## Human_infecting_viral_families
 * human_infecting_viral_families/*.txt file
 
+Tab delimited text files (one file per viral family) describing the percentage of human-infecting viruses within a viral family that structurally mimic a particular human protein (least one viral protein structurally mimics the human protein)
+
      Column 0   Human protein (Uniprot AC) mimicking >= viruses within the viral family
 
      Column 1   Number of viruses within the family structurally mimicking the human protein
