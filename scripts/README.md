@@ -35,9 +35,9 @@ Taxonomy enrichment results for Bacteria-infecting viruses, Human-infecting viru
 
      enrichment_2.5.txt:   Hypergeometric test using all structural mimics
      enrichment_subCluster40_2.5.txt:   Hypergeometric test using a set of structural mimics filtered at 40% sequence identity
-     representative_template_space.txt
-     subCluster40_neighbor_space_2.5.txt
-     uniprot_neighbor_space.txt
+     representative_template_space.txt:   Set of structural templates used to infer structurally similar proteins (pdb, pdb_start, pdb_end, uniprot AC, taxonomic division)
+     subCluster40_neighbor_space_2.5.txt:   Set of inferred structural mimics filtered at 40% sequence identity
+     uniprot_neighbor_space.txt:   Set of inferred structural mimics (uniprot, host taxonomic ID, host name, host taxonomic division, lowest structural alignment score)
 
 * 1_identify_templates.pl
 
