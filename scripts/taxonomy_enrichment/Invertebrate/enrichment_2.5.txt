@@ -1,0 +1,23 @@
+background size: 40808
+bacteria	phyper(10128,21271,19537,18573,lower.tail=FALSE)
+eukaryote	phyper(5335,17345,23463,18573,lower.tail=FALSE)
+human	phyper(2773,5841,34967,18573,lower.tail=FALSE)
+invertebrate	phyper(1104,2687,38121,18573,lower.tail=FALSE)
+mammal	phyper(3946,8996,31812,18573,lower.tail=FALSE)
+nonHumanMammal	phyper(1172,3155,37653,18573,lower.tail=FALSE)
+nonMammalVertebrate	phyper(283,876,39932,18573,lower.tail=FALSE)
+plantfungi	phyper(2183,4786,36022,18573,lower.tail=FALSE)
+vertebrate	phyper(4230,9872,30936,18573,lower.tail=FALSE)
+virus	phyper(923,2172,38636,18573,lower.tail=FALSE)
+
+#category	NeigProtsInCat	AllProtsInCat	AllProts	AllNeig	ObservedPercen	ExpectedPercen	pval	correctedPval	-log10CorrPval
+bacteria	10129	21271	40808	18573	0.545	0.521	2.659833e-19	2.659833e-18	17.5751456300814
+eukaryote	5336	17345	40808	18573	0.287	0.425	1	1.000000e+00	0
+human	2774	5841	40808	18573	0.149	0.143	0.0005495111	5.495111e-03	2.26002353050153
+invertebrate	1105	2687	40808	18573	0.059	0.066	0.999999	1.000000e+00	0
+mammal	3947	8996	40808	18573	0.213	0.220	0.9998061	1.000000e+00	0
+nonHumanMammal	1173	3155	40808	18573	0.063	0.077	1	1.000000e+00	0
+nonMammalVertebrate	284	876	40808	18573	0.015	0.021	1	1.000000e+00	0
+plantfungi	2184	4786	40808	18573	0.118	0.117	0.4355448	1.000000e+00	0
+vertebrate	4231	9872	40808	18573	0.228	0.242	1	1.000000e+00	0
+virus	924	2172	40808	18573	0.050	0.053	0.9980457	1.000000e+00	0
