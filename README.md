@@ -1,7 +1,7 @@
 # Structural relationships between viruses and hosts
 
 ## Table of contents
-* [Overview](Overview)
+* [Overview](#Overview)
 * [Data|results](#Data|Results)
 * [Scripts](#Scripts)
 
