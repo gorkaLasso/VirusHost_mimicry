@@ -45,6 +45,7 @@ Tab delimited text file describing the viral dataset, including the virus and co
 * virus_host_structural_pairs/*.txt files
 
 Tab delimited text files describing structural relationships between viral proteins and proteins in non-viral organisms. Each file within the directory corresponds to a set of viruses grouped together according to the taxonomic division of their host.
+
 Important! The run for SARS-CoV-2 proteins was carried out using an updated version of the PDB. Therefore, human protein mimicking SARS-CoV-2 and not other coronaviruses might be the result of having used a more up-to-date database. 
 
      Column 0   Internal_virprotID_A: Unique internal identifier A for viral protein
