@@ -1,15 +1,13 @@
-# Structural relationships between viruses and hosts
+# Data & Results
 
 ## Table of contents
-* [Overview](#overview)
-* [Viral_dataset](#viral_dataset)
+* [Mapping](#mapping)
+* [Human_infecting_viral_families](#human_infecting_viral_families)
 * [Structural_relationships](#structural_relationships)
 
-## Overview
-We employ sequence-based methods to identify proteins that have similar structures to queried viral proteins and then use structural alignment to find “structural neighbors” of viral proteins. We applied the approach to a set of 337,493 viral proteins representing 7,486 viruses across a broad host taxonomic range, including bacteria, plants and fungi, invertebrates and vertebrates. Our survey identified over 6,000,000 structural relationships between proteins in viruses and non-viral organisms.
 
-## Viral_dataset
-* virus_viralProt_mapping.txt
+## Mapping
+* mapping/virus_viralProt_mapping.txt
 
 Tab delimited text file describing the viral dataset, including the virus and corresponding viral proteins and hosts. This dataset was originaly obtained from the virushostDB (https://www.genome.jp/virushostdb/). Each line corresponds to a viral protein. 
 
@@ -40,6 +38,17 @@ Tab delimited text file describing the viral dataset, including the virus and co
      Column 12  Host taxid: Taxonomic identifier for virus hosts
 
      Column 13  Host name: Names for virus hosts
+
+## Human_infecting_viral_families
+* human_infecting_viral_families/*.txt file
+
+     Column 0   Human protein (Uniprot AC) mimicking >= viruses within the viral family
+
+     Column 1   Number of viruses within the family structurally mimicking the human protein
+
+     Column 2   Total number of viruses within a viral family
+
+     Column 3   Percentages of viruses within the family structurally mimicking the human protein
 
 ## Structural_relationships
 * virus_host_structural_pairs/*.txt files
