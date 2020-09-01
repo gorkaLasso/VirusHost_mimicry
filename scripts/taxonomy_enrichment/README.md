@@ -12,7 +12,7 @@ Taxonomic enrichment for a group of viruses using the set of proteins that are s
 * [enrichment_sum_4_manuscript.xlsx](#enrichment_sum_4_manuscript.xlsx)
 
 
-## Directories (Bacteria, Human, Invertebrate, PlantFungi, Vertebrate)
+## Directories
 
 Taxonomy enrichment results for Bacteria-infecting viruses, Human-infecting viruses, Invertebrate-infecting viruses, PlantFungi-infecting viruses and Vertebrate-infecting viruses. Files contained within each directory:
 
