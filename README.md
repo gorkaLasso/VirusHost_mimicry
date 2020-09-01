@@ -11,15 +11,15 @@ We employ sequence-based methods to identify proteins that have similar structur
 ## data|results
 * mapping 
 
-Mapping of viral proteins, viruses and their hosts as described by virushostDB (https://www.genome.jp/virushostdb/)
+    Mapping of viral proteins, viruses and their hosts as described by virushostDB (https://www.genome.jp/virushostdb/)
 
 * virus_host_structural_pairs/*.txt files
 
-Inferred structural relationships between viral proteins and proteins in non-viral organisms
+    Inferred structural relationships between viral proteins and proteins in non-viral organisms
 
 * human_infecting_viral_families
 
-Human structural mimics within human-infecting viral families
+    Human structural mimics within human-infecting viral families
 
 ## scripts
 * taxonomy_enrichment
