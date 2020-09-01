@@ -5,7 +5,7 @@ Taxonomic enrichment for a group of viruses using the set of proteins that are s
 ## Table of contents
 * [Directories](#Directories)
 * [Perl_scripts](#Perl_scripts)
-* [Other][#Other]
+* [Other](#Other)
 
 
 ## Directories
