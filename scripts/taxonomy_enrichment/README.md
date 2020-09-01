@@ -32,7 +32,7 @@ Taxonomy enrichment results for Bacteria-infecting viruses, Human-infecting viru
 
      Set of inferred structural mimics (uniprot, host taxonomic ID, host name, host taxonomic division, lowest structural alignment score)
 
-## Perl scripts
+## Perl_scripts
 
 * 1_identify_templates
 
