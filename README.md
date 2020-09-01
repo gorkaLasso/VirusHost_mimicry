@@ -24,7 +24,7 @@ We employ sequence-based methods to identify proteins that have similar structur
 ## scripts
 * taxonomy_enrichment
 
-    Taxonomic enrichment for a group of viruses, and their viral proteins, using the set of proteins that are structurally similar to the viral proteins. Viruses are grouped according to the taxonomic division of their host.
+    Taxonomic enrichment for a group of viruses using the set of proteins that are structurally similar to the viral proteins. Viruses are grouped according to the taxonomic division of their host.
     
 * pathway_enrichement_humanVirFam
 
