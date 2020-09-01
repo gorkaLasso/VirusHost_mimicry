@@ -7,7 +7,8 @@ Taxonomic enrichment for a group of viruses using the set of proteins that are s
 Taxonomy enrichment results for Bacteria-infecting viruses, Human-infecting viruses, Invertebrate-infecting viruses, PlantFungi-infecting viruses and Vertebrate-infecting viruses. Files contained within each directory:
 
 * enrichment_2.5.txt
-Hypergeometric test using all structural mimics
+
+     Hypergeometric test using all structural mimics
 
 * enrichment_subCluster40_2.5.txt
 Hypergeometric test using a set of structural mimics filtered at 40% sequence identity
