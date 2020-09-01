@@ -5,7 +5,7 @@ Taxonomic enrichment for a group of viruses using the set of proteins that are s
 ## Table of contents
 * [Directories](#Directories)
 * [Perl_scripts](#Perl_scripts)
-* [enrichment_sum_4_manuscript.xlsx][#enrichment_sum_4_manuscript.xlsx]
+* [Other][#Other]
 
 
 ## Directories
@@ -46,4 +46,5 @@ Taxonomy enrichment results for Bacteria-infecting viruses, Human-infecting viru
 
 * 5_hypergeometric_seqBasedTaxClusters.pl
 
-## enrichment_sum_4_manuscript.xlsx
+## Other
+* enrichment_sum_4_manuscript.xlsx
