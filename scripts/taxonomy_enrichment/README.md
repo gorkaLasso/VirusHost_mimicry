@@ -36,15 +36,29 @@ Taxonomy enrichment results for Bacteria-infecting viruses, Human-infecting viru
 
 * 1_identify_templates
 
+     Description
+
 * 2_identify_neighbors\.pl
+
+     Description
 
 * 3_hypergeometric.pl
 
+     Description
+
 * 3_hypergeometric_taxID.pl
+
+     Description
 
 * 4_identity_seqBasedTaxClusters.pl
 
+     Description
+
 * 5_hypergeometric_seqBasedTaxClusters.pl
+
+     Description
 
 ## Other
 * enrichment_sum_4_manuscript.xlsx
+
+     Description
