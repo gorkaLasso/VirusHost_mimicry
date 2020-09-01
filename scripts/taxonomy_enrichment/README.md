@@ -4,12 +4,8 @@ Taxonomic enrichment for a group of viruses using the set of proteins that are s
 
 ## Table of contents
 * [Directories](#Directories)
-* [1_identify_templates](#1_identify_templates)
-* [2_identify_neighbors\.pl](#2_identify_neighbors\.pl)
-* [3_hypergeometric.pl](#3_hypergeometric.pl)
-* [4_identity_seqBasedTaxClusters.pl](#4_identity_seqBasedTaxClusters.pl)
-* [5_hypergeometric_seqBasedTaxClusters.pl](#5_hypergeometric_seqBasedTaxClusters.pl)
-* [enrichment_sum_4_manuscript.xlsx](#enrichment_sum_4_manuscript.xlsx)
+* [Perl_scripts](#Perl_scripts)
+* [enrichment_sum_4_manuscript.xlsx][#enrichment_sum_4_manuscript.xlsx]
 
 
 ## Directories
@@ -36,16 +32,18 @@ Taxonomy enrichment results for Bacteria-infecting viruses, Human-infecting viru
 
      Set of inferred structural mimics (uniprot, host taxonomic ID, host name, host taxonomic division, lowest structural alignment score)
 
-## 1_identify_templates
+## Perl scripts
 
-## 2_identify_neighbors\.pl
+* 1_identify_templates
 
-## 3_hypergeometric.pl
+* 2_identify_neighbors\.pl
 
-## 3_hypergeometric_taxID.pl
+* 3_hypergeometric.pl
 
-## 4_identity_seqBasedTaxClusters.pl
+* 3_hypergeometric_taxID.pl
 
-## 5_hypergeometric_seqBasedTaxClusters.pl
+* 4_identity_seqBasedTaxClusters.pl
+
+* 5_hypergeometric_seqBasedTaxClusters.pl
 
 ## enrichment_sum_4_manuscript.xlsx
