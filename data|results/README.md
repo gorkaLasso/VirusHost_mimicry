@@ -1,12 +1,32 @@
 # Data & Results
 
 ## Table of contents
-* [Mapping](#mapping)
-* [Human_infecting_viral_families](#human_infecting_viral_families)
-* [Structural_relationships](#structural_relationships)
+* [human_infecting_viral_families](#human_infecting_viral_families)
+* [mapping](#mapping)
+* [virus_host_structural_pairs](#virus_host_structural_pairs)
 
 
-## Mapping
+## human_infecting_viral_families
+
+Description of human proteins being structurally mimicked within viral families of human-infecting viruses
+
+* human_infecting_viral_families/count/*.txt file
+
+Tab delimited text files (one file per viral family) describing the percentage of viruses within a viral family that structurally mimic a particular human protein (at least one viral protein must be structurally similar to the human protein)
+
+     Column 0   Human protein (Uniprot AC) mimicking >= viruses within the viral family
+
+     Column 1   Number of viruses within the family structurally mimicking the human protein
+
+     Column 2   Total number of viruses within a viral family
+
+     Column 3   Percentages of viruses within the family structurally mimicking the human protein
+
+* mimics_per_virus_and_residue
+
+Summary of the number of human structural mimics in viral families
+
+## mapping
 * mapping/virus_viralProt_mapping.txt
 
 Tab delimited text file describing the viral dataset, including the virus and corresponding viral proteins and hosts. This dataset was originaly obtained from the virushostDB (https://www.genome.jp/virushostdb/). Each line corresponds to a viral protein. 
@@ -39,20 +59,9 @@ Tab delimited text file describing the viral dataset, including the virus and co
 
      Column 13  Host name: Names for virus hosts
 
-## Human_infecting_viral_families
-* human_infecting_viral_families/*.txt file
 
-Tab delimited text files (one file per viral family) describing the percentage of human-infecting viruses within a viral family that structurally mimic a particular human protein (least one viral protein structurally mimics the human protein)
 
-     Column 0   Human protein (Uniprot AC) mimicking >= viruses within the viral family
-
-     Column 1   Number of viruses within the family structurally mimicking the human protein
-
-     Column 2   Total number of viruses within a viral family
-
-     Column 3   Percentages of viruses within the family structurally mimicking the human protein
-
-## Structural_relationships
+## virus_host_structural_pairs
 * virus_host_structural_pairs/*.txt files
 
 Tab delimited text files describing structural relationships between viral proteins and proteins in non-viral organisms. Each file within the directory corresponds to a set of viruses grouped together according to the taxonomic division of their host.
