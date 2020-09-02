@@ -6,54 +6,28 @@ Tab delimited text file describing the viral dataset, including the virus and co
 
     Column 0   Gene/Protein description: Name for the corresponding viral gene and/or protein
 
-* Column 1
+    Column 1   NCBI Identifier: Genomic and/or protein NCBI identifier
 
-     NCBI Identifier: Genomic and/or protein NCBI identifier
+    Column 2   Ids for other databases: Identifier for additional databases (e.g. GI, uniprotKb, Interpro)
 
-* Column 2
+    Column 3   Internal VirProt id A: Unique internal identifier A for viral protein
 
-     Ids for other databases: Identifier for additional databases (e.g. GI, uniprotKb, Interpro)
+    Column 4   Internal VirProt id B: Internal identifier B for viral protein (two proteins 100% identical will share the same identifier)
 
-* Column 3
+    Column 5   Virus taxid: virus taxonomic identifier
 
-     Internal VirProt id A: Unique internal identifier A for viral protein
+    Column 6   Virus Name
 
-* Column 4
+    Column 7   Virus family
 
-     Internal VirProt id B: Internal identifier B for viral protein (two proteins 100% identical will share the same identifier)
+    Column 8   Nucleic acid type
 
-* Column 5
+    Column 9   Host TaxGroup Level 1: Broadest taxonomic division for hosts (Bacteria, Invertebrate and Bacteria, Invertebrate and Plant Fungi, Invertebrate & Vertebrate, Plant Fungi, Vertebrate)
 
-     Virus taxid: virus taxonomic identifier
+    Column 10   Host TaxGroup Level 2: The Vertebrate taxonomic division is broken down into mammals/non-mammals
 
-* Column 6
+    Column 11   Host TaxGroup Level 3: The taxonomic divisions containing mammals are further broken down into human/non-human
 
-     Virus Name
+    Column 12   Host taxid: Taxonomic identifier for virus hosts
 
-* Column 7
-
-     Virus family
-
-* Column 8
-
-     Nucleic acid type
-
-* Column 9
-
-     Host TaxGroup Level 1: Broadest taxonomic division for hosts (Bacteria, Invertebrate and Bacteria, Invertebrate and Plant Fungi, Invertebrate & Vertebrate, Plant Fungi, Vertebrate)
-
-* Column 10
-
-     Host TaxGroup Level 2: The Vertebrate taxonomic division is broken down into mammals/non-mammals
-
-* Column 11
-
-     Host TaxGroup Level 3: The taxonomic divisions containing mammals are further broken down into human/non-human
-
-* Column 12
-
-     Host taxid: Taxonomic identifier for virus hosts
-
-* Column 13
-
-     Host name: Names for virus hosts
+    Column 13   Host name: Names for virus hosts
