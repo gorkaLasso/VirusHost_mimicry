@@ -27,6 +27,8 @@ Tab delimited text files (one file per viral family) describing the percentage o
 Summary of the number of human structural mimics in viral families
 
 ## mapping
+Mapping of viral proteins, viruses and their hosts as described by virushostDB 
+ 
 * mapping/virus_viralProt_mapping.txt
 
 Tab delimited text file describing the viral dataset, including the virus and corresponding viral proteins and hosts. This dataset was originaly obtained from the virushostDB (https://www.genome.jp/virushostdb/). Each line corresponds to a viral protein. 
