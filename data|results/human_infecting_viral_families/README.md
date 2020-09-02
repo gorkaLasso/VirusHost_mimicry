@@ -6,7 +6,7 @@ Tab delimited text files (one file per viral family) describing the percentage o
 
 * Column 0
 
-     Human protein (Uniprot AC) mimicking >= viruses within the viral family
+     Human protein (Uniprot AC) mimicking >= 1 viruses within the viral family
 
 * Column 1
 
@@ -22,3 +22,5 @@ Tab delimited text files (one file per viral family) describing the percentage o
 
 
 ## mimics_per_virus_and_residue
+
+PRISM files used to generate figures 2a, 2b and 2c in the manuscript
