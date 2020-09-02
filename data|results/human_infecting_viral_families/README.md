@@ -2,9 +2,6 @@
 
 ## count
 
-
-
-## mimics_per_virus_and_residue
 Tab delimited text files (one file per viral family) describing the percentage of viruses within a viral family that structurally mimic a particular human protein (at least one viral protein must be structurally similar to the human protein)
 
 * Column 0
@@ -22,3 +19,6 @@ Tab delimited text files (one file per viral family) describing the percentage o
 * Column 3
 
      Percentages of viruses within the family structurally mimicking the human protein
+
+
+## mimics_per_virus_and_residue
