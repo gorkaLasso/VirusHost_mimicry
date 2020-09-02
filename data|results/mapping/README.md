@@ -24,10 +24,10 @@ Tab delimited text file describing the viral dataset, including the virus and co
 
     Column 9   Host TaxGroup Level 1: Broadest taxonomic division for hosts (Bacteria, Invertebrate and Bacteria, Invertebrate and Plant Fungi, Invertebrate & Vertebrate, Plant Fungi, Vertebrate)
 
-    Column 10   Host TaxGroup Level 2: The Vertebrate taxonomic division is broken down into mammals/non-mammals
+    Column 10  Host TaxGroup Level 2: The Vertebrate taxonomic division is broken down into mammals/non-mammals
 
-    Column 11   Host TaxGroup Level 3: The taxonomic divisions containing mammals are further broken down into human/non-human
+    Column 11  Host TaxGroup Level 3: The taxonomic divisions containing mammals are further broken down into human/non-human
 
-    Column 12   Host taxid: Taxonomic identifier for virus hosts
+    Column 12  Host taxid: Taxonomic identifier for virus hosts
 
-    Column 13   Host name: Names for virus hosts
+    Column 13  Host name: Names for virus hosts
